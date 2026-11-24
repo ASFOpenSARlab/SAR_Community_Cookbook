@@ -1,8 +1,18 @@
-# ASF SAR Community Cookbook
-
-<img src="assets/ASF_logo.svg" alt="thumbnail" width="300"/>
+# SAR Community Cookbook
 
 [![nightly-build](https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/actions/workflows/nightly-build.yaml)
+
+> [!WARNING]
+> ### **Community-Contributed Notebooks Are Not Validated by ASF**
+>
+> The [Alaska Satellite Facility (ASF)](https://asf.alaska.edu) hosts this cookbook as a space for the SAR community to collaborate and share workflows.
+>
+> ASF has **not reviewed or validated** notebook contributions and does **not endorse** them. Use them at your own discretion.
+>
+> Each notebook is mirrored from its author's source repository and is synced nightly to pull in updates.
+>
+> **Please open issues and submit pull requests for each notebook in their source repositories**, not here.
+
 
 ## Motivation
 

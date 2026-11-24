@@ -1,0 +1,15 @@
+{
+  "notebooks": {
+    "external/ASFOpenSARlab/NISAR_Cookbook/notebooks/GSLC_Faraday_Rotation_Estimation.ipynb": {
+      "commit": "0ba455f040a5ae1e73522e816980e637a4b5d9d5",
+      "files": [
+        "external/ASFOpenSARlab/NISAR_Cookbook/assets/edl_token.png",
+        "external/ASFOpenSARlab/NISAR_Cookbook/assets/vertex_quad_pol.png",
+        "external/ASFOpenSARlab/NISAR_Cookbook/notebooks/GSLC_Faraday_Rotation_Estimation.ipynb",
+        "external/ASFOpenSARlab/NISAR_Cookbook/util/__init__.py",
+        "external/ASFOpenSARlab/NISAR_Cookbook/util/plot_faraday.py"
+      ],
+      "source": "https://github.com/ASFOpenSARlab/NISAR_Cookbook/blob/main/notebooks/GSLC_Faraday_Rotation_Estimation.ipynb"
+    }
+  }
+}

@@ -15,7 +15,7 @@ project:
 #     - title: General SAR
     - title: NISAR
       children:
-        - file: notebooks/GSLC_Faraday_Rotation_Estimation.ipynb
+        - file: external/ASFOpenSARlab/NISAR_Cookbook/notebooks/GSLC_Faraday_Rotation_Estimation.ipynb
 #     - title: Sentinel-1
     - title: Contributor's Guide
       children:
