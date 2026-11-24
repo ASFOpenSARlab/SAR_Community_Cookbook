@@ -13,9 +13,9 @@ project:
         - file: notebooks/software_environment.ipynb
         - file: notebooks/set_up_Earthdata_Login.md
 #     - title: General SAR
-    # - title: NISAR
-    #   children:
-    #     - file:
+    - title: NISAR
+      children:
+        - file: external/ASFOpenSARlab/NISAR_Cookbook/notebooks/GSLC_Faraday_Rotation_Estimation.ipynb
 #     - title: Sentinel-1
     - title: Contributor's Guide
       children:
