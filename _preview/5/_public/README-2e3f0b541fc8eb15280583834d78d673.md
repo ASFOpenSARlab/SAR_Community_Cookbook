@@ -11,7 +11,7 @@
 >
 > Each notebook is mirrored from its author's source repository and is synced nightly to pull in updates.
 >
-> **Please open issues and submit pull requests for each notebook in its source repository**, not here.
+> **Please open issues and submit pull requests for each notebook in their source repositories**, not here.
 
 
 ## Motivation
